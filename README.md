@@ -1,5 +1,7 @@
 <div align="center">
 
+![TRACE Logo](trace_logo.png)
+
 # TRACE 1.0
 ### Total Risk Assessment & Computed Exposure
 
@@ -134,7 +136,7 @@ Press **Y** when prompted to save a full PDF report to your Desktop containing:
 | Project | Description | Links |
 |---------|-------------|-------|
 | **REDACT** | Windows privacy & anti-forensics tool | [GitHub](https://github.com/yonasabeselom/redact) · [SourceForge](https://sourceforge.net/projects/redact) |
-| **AAD-50** | NVMe Sanitize Verify fix (CVE/advisory) | [GitHub](https://github.com/yonasabeselom/aad50) · [SourceForge](https://sourceforge.net/projects/aad50/) |
+| **AAD-50** | NVMe Sanitization Tool | [GitHub](https://github.com/yonasabeselom/aad50) · [SourceForge](https://sourceforge.net/projects/aad50/) |
 
 > TRACE pairs perfectly with **REDACT** — use TRACE to find what's exposed, then use REDACT to clean it.
 
