@@ -1,6 +1,6 @@
 <div align="center">
 
-![TRACE Logo](trace_logo.png)
+<img src="trace_logo.png" width="400"/>
 
 # TRACE 1.0
 ### Total Risk Assessment & Computed Exposure
