@@ -162,4 +162,4 @@ The author is not responsible for any misuse of this tool.
 
 ## License
 
-MIT License — see [LICENSE](LICENSE)
+GNU General Public License v3.0 — see [LICENSE](LICENSE)
