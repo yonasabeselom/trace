@@ -11,7 +11,6 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)]()
 [![Python](https://img.shields.io/badge/python-3.6%2B-yellow?style=flat-square)]()
 [![License](https://img.shields.io/badge/license-GPL%20v3-blue?style=flat-square)](LICENSE)
-[![SourceForge](https://img.shields.io/badge/SourceForge-TRACE-orange?style=flat-square&logo=sourceforge)](https://sourceforge.net/projects/trace/)
 [![Author](https://img.shields.io/badge/author-Yonas%20Abeselom-red?style=flat-square)]()
 
 </div>
@@ -136,7 +135,7 @@ Press **Y** when prompted to save a full PDF report to your Desktop containing:
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **TRACE** | Windows Forensic Exposure Scanner | [GitHub](https://github.com/yonasabeselom/trace) · [SourceForge](https://sourceforge.net/projects/trace/) |
+| **TRACE** | Windows Forensic Exposure Scanner | [GitHub](https://github.com/yonasabeselom/trace) |
 | **REDACT** | Windows privacy & anti-forensics tool | [GitHub](https://github.com/yonasabeselom/redact) · [SourceForge](https://sourceforge.net/projects/redact) |
 | **AAD-50** | NVMe Sanitization Tool | [GitHub](https://github.com/yonasabeselom/aad50) · [SourceForge](https://sourceforge.net/projects/aad50/) |
 
