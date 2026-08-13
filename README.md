@@ -12,6 +12,9 @@
 [![Python](https://img.shields.io/badge/python-3.6%2B-yellow?style=flat-square)]()
 [![License](https://img.shields.io/badge/license-GPL%20v3-blue?style=flat-square)](LICENSE)
 [![Author](https://img.shields.io/badge/author-Yonas%20Abeselom-red?style=flat-square)]()
+[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/yonasabeselom)
+
+> ☕ If TRACE helped you, [buy me a coffee](https://ko-fi.com/yonasabeselom) to keep development going.
 
 </div>
 
