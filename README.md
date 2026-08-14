@@ -12,8 +12,10 @@
 [![Python](https://img.shields.io/badge/python-3.6%2B-yellow?style=flat-square)]()
 [![License](https://img.shields.io/badge/license-GPL%20v3-blue?style=flat-square)](LICENSE)
 [![Author](https://img.shields.io/badge/author-Yonas%20Abeselom-red?style=flat-square)]()
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yonasabeselom)
 
+<br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yonasabeselom)
 
 </div>
 
